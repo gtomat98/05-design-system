@@ -1,0 +1,2 @@
+import{A as t}from"./index-5799ea1e.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gtomat98.png",alt:"Matheus Dafonseca"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-fdda21ac.js.map
