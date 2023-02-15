@@ -1,5 +1,5 @@
 {
-  "name": "@gtomat98-ignite-ui/tokens",
+  "name": "@ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@gtomat98-ignite-ui/ts-config": "*",
-    "@gtomat98-ignite-ui/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "tsup": "^6.6.0",
     "typescript": "^4.9.5"
   }
